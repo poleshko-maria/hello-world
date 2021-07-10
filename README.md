@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 Hello!
-I`m Mariia. I like the process of learning JavaScript.
+I`m Mariia. I like the process of learning JavaScript and JS itself :)
